@@ -1,8 +1,8 @@
-![Gnanamanickam Banner Image](./gnani.jpg)
+![Gnanamanickam Banner Image](./Gnani.jpg)
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gnanamanickam.ganamanickam1)](https://github.com/gnanamanickam) [![GitHub followers](https://img.shields.io/github/followers/gnanamanickam.svg?style=social&label=Follow)](https://github.com/gnanamanickam?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gnanamanickam.ganamanickam)](https://github.com/gnanamanickam) [![GitHub followers](https://img.shields.io/github/followers/gnanamanickam.svg?style=social&label=Follow)](https://github.com/gnanamanickam?tab=followers)
 
 I'm Gnanamanickam! 
 - <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
