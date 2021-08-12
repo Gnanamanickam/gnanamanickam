@@ -8,6 +8,21 @@ I'm Gnanamanickam!
 - <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
 - <i>Previously:</i> Full Stack Software Engineer at Wipro.
 
+### Tech stack
+![](https://img.shields.io/badge/code-Java-green)
+![](https://img.shields.io/badge/code-python-green)
+![](https://img.shields.io/badge/code-Javascript-green)
+![](https://img.shields.io/badge/code-Node.js-green)
+![](https://img.shields.io/badge/framework-Spring-boot-blue)
+![](https://img.shields.io/badge/framework-Flask-blue)
+![](https://img.shields.io/badge/framework-React-blue)
+![](https://img.shields.io/badge/framework-Angular-blue)
+![](https://img.shields.io/badge/database-MySQL-yellow)
+![](https://img.shields.io/badge/database-Oracle-yellow)
+![](https://img.shields.io/badge/database-MongoDb-yellow)
+![](https://img.shields.io/badge/Tools-Git-orange)
+![](https://img.shields.io/badge/Tools-AWS-orange)
+
 <h2>Currently working on:</h2>
 
 <h3>Covid19 Vaccination Portal</h3>
