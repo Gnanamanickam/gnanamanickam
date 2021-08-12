@@ -38,9 +38,9 @@ Check out the GitHub repository:
     <a href="https://github.com/diamalab/cs480---course-project-covid19_vaccination">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=diamalab&repo=cs480---course-project-covid19_vaccination" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Gnanamanickam/dog-identifier">
+<!--     <a href="https://github.com/Gnanamanickam/dog-identifier">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gnanamanickam&repo=dog-identifier" alt="GitHub Stats" />
-    </a>
+    </a> -->
   </p>
 </div>
 
