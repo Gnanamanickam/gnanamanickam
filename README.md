@@ -66,7 +66,7 @@ Check out the GitHub repository:
 
 I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
  
-<!-- - Check out my Blog: [https://laxmena.com](https://laxmena.com) -->
+- Check out my Website: [https://gnani.dev](https://gnani.dev)
 - Know more about me: [About Gnani](https://www.linkedin.com/in/gnanamanickam/)
 - Write to me: [gnanamanickam1995@gmail.com](mailto:gnanamanickam1995@gmail.com)
 
