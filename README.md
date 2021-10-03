@@ -10,7 +10,8 @@ I'm Gnanamanickam!
 
 ### Tech stack
 ![](https://img.shields.io/badge/code-Java-green)
-![](https://img.shields.io/badge/code-python-green)
+![](https://img.shields.io/badge/code-Python-green)
+![](https://img.shields.io/badge/code-Scala-green)
 ![](https://img.shields.io/badge/code-Javascript-green)
 ![](https://img.shields.io/badge/code-Node.js-green)
 ![](https://img.shields.io/badge/framework-Spring-boot-blue)
