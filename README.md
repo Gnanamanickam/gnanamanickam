@@ -14,7 +14,7 @@ I'm Gnanamanickam!
 ![](https://img.shields.io/badge/code-Scala-green)
 ![](https://img.shields.io/badge/code-Javascript-green)
 ![](https://img.shields.io/badge/code-Node.js-green)
-![](https://img.shields.io/badge/framework-Spring-boot-blue)
+![](https://img.shields.io/badge/framework-Springboot-blue)
 ![](https://img.shields.io/badge/framework-Flask-blue)
 ![](https://img.shields.io/badge/framework-React-blue)
 ![](https://img.shields.io/badge/framework-Angular-blue)
